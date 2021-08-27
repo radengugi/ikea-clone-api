@@ -1,0 +1,1 @@
+SELECT * FROM ikea_api.products;
